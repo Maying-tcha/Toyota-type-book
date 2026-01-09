@@ -1,8 +1,7 @@
 @font-face {
-    font-family: 'ToyotaType-Book';
-    src: url('ToyotaType-Book.woff2') format('woff2'),
-        url('ToyotaType-Book.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'ToyotaTypeLight';
+  src: url('https://cdn.jsdelivr.net/gh/Maying-tcha/toyota-font@main/ToyotaType-Light.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/Maying-tcha/toyota-font@main/ToyotaType-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
 }
